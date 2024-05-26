@@ -2,7 +2,7 @@
 
 ## An investigation and visualization of the spiritual trajectories of American Adults using the General Social Survey.
 
-This is the code directory for this [Medium](#) post looking at the proportion of Americans that change religions from the ones that they were raised in---and whether certain religions tend to be "better" at "retaining" individuals. It also compares these trends today (well, at least 2018) to 1998. 
+This is the code directory for this [Medium](https://prlicari.medium.com/how-many-change-or-leave-their-religion-as-they-grow-up-780487e0c347) post looking at the proportion of Americans that change religions from the ones that they were raised in---and whether certain religions tend to be "better" at "retaining" individuals. It also compares these trends today (well, at least 2018) to 1998. 
 
 ## Data
 The data for this project come from the General Social Survey (GSS)'s cumulative data file. I am using 1972-2022, release 2a as provided by the incredible [gssr](https://kjhealy.github.io/gssr/) package. As such, I do not include the data here as one can acquire it themselves through that package.
