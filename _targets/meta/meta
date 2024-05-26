@@ -1,0 +1,21 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+bayes_density_plot|function|52f0373343cc87ff|||||||||||||||
+brm_mod|stem|c34507238b8d225a|8f53594f4694afab|bfdc14055d292b20|1345339121||t19865.9333274422s|021b75399efaa0e0|1825269|rds|local|vector|||0.19||
+cleaned_gss_data|stem|3daaca9716c68336|60d321c94536a6e2|a6e9d3b21aeef0b6|-1347386168||t19865.9333150882s|3b700383d2204d1f|83553|rds|local|vector|||0.01||
+detailed_faith_transition_figures|function|ce521a974933480e|||||||||||||||
+faith_transitions|stem|de4255ccb25f0f9b|eb737ed7cd658ccb|d6b6694a42a9f37d|726104664||t19865.933321818s|64ed21f17f70317e|956|rds|local|vector|||0.19||
+gss_data|stem|398c4f5b4dfd6796|c48ddeca7b4cf0d7|d88146e4f2efef71|-2111420749||t19865.9333130921s|5b79a44d5250200b|40589838|rds|local|vector|||17.6||
+gss_etl|function|7316631d9f8bc159|||||||||||||||
+load_gss_data|function|0cf8c502210e973e|||||||||||||||
+posterior_fig|stem|8bb89e93165985cd|a87c5f586fc5382f|19328463692a306b|-1816849219||t19869.8437416558s|8e46f8b0e00db522|5275895|rds|local|vector|||1.78||
+pred_draws|stem|3e379df3a31ed97d|2bec8f66ac1779c6|d76bba2ccee877f5|1328704231||t19869.059450578s|a84856f269844c9b|996347|rds|local|vector|||1||
+regress_data|stem|ebecb79d7136ab66|c01f918909ed12db|c6e672989af5ac8a|896764438||t19865.9333169217s|b4715e4f17f9c7bc|92365|rds|local|vector|||0.06||
+regression_data|function|f886fcc585d73ec1|||||||||||||||
+relig_change_chart|stem|35790b81f0651a10|12753b158982d01d|f80313e282fcf8c7|-1475228037||t19869.8437140561s|9b2a4bb09d7c2ce3|185065|rds|local|vector|||3.44||
+relig_change_props|stem|d14c0a1ef3a4c5cd|2fbde1ef1c66fb46|21a56060da68df1b|26680951||t19865.9333180377s|bfc2a0e5a1b7c355|610|rds|local|vector|||0.05||
+relig_prop_chart|function|4423a248b3fe66e0|||||||||||||||
+religion_change_proportions|function|6564a699de0066c3|||||||||||||||
+sank_data|stem|630e02e99ee880d1|9a9d6b5735e86762|ae0723b822ee9771|-1960202621||t19865.9333192095s|d15b571c5beeb1ad|726|rds|local|vector|||0.08||
+sank_plot|stem|0bdf2f227361b3e2|a64dc4d8b476b27a|5e1d6fae5a0daa12|-2068253891||t19865.933368429s|6eb373bf28f8bd8c|297932|rds|local|vector|||3.36|Continuous limits supplied to discrete scale.ℹ Did you mean limits  factor... or scale__continuous|
+sankey_chart|function|ea2befbc6cc33533|||||||||||||||
+sankey_data|function|c63c9ab29f35d22b|||||||||||||||
